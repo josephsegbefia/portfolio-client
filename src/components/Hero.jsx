@@ -31,7 +31,7 @@ const Hero = () => {
       <h2 className="text-5xl text-rose-600 font-bold uppercase">
         Joseph Segbefia
       </h2>
-      <h3 className="py-3 text-2xl">Fullstack Developer</h3>
+      <h3 className="py-3 text-2xl">Fullstack Developer 🧑‍💻</h3>
       <p className="max-w-xl font-light text-gray-500">
         {/* This section will be replaced with data from the database */}
         Hello <span className="animate-pulse text-sm">👋</span> welcome to my
