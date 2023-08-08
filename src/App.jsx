@@ -6,6 +6,8 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Login from "./components/auth/login";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   const [darkMode, setDarkMode] = useState(true);
